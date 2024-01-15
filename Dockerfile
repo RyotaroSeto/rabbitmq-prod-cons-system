@@ -1,4 +1,4 @@
-FROM golang:1.21.3-bookworm as dev
+FROM golang:1.21.4-bookworm as dev
 
 ENV CGO_ENABLED=0
 ENV GO111MODULE=on
