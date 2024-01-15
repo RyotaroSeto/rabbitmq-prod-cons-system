@@ -1,1 +1,1 @@
-# rabbitmq-prod-cons-system-
+# rabbitmq-prod-cons-system
